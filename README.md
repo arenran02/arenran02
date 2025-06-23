@@ -87,7 +87,12 @@
   <a href="https://github.com/arenran02/Capstone-AI-app" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
+
+  <img src="assets/project1.png">
+
 </p>
+
+
 
 ---
 ### 오픈소스SW개론 (2025-1) - RAG 기반 AI 챗봇 동아리 추천 시스템
@@ -101,11 +106,14 @@
   <a href="https://github.com/OpenSW-3341/ClubFinder.AI" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
+
+  <img src="assets/project2.png">
+
 </p>
 
 ---
 
-### 학부연구생 (2024-2) - [Apple Vision Pro](https://developer.apple.com/documentation/visionos/) 가구 이미지 3D 시뮬레이션 앱
+### (2024-2) - [Apple Vision Pro](https://developer.apple.com/documentation/visionos/) 가구 이미지 3D 시뮬레이션 앱
 
 갤러리에 있는 가구 이미지를 입력 받아 [SF3D](https://github.com/facebookresearch/semantic-segmentation) 모델을 통해 **3D 모델로 변환하여 앱에 import**  
 Apple Vision Pro의 환경에서 **3D 오브젝트를 드래그하여 확대/축소, 이동**할 수 있는 시뮬레이션 앱을 개발  
@@ -113,10 +121,11 @@ Apple Vision Pro의 **ARKit/RealityKit**을 활용하여, 사용자가 3D 재구
 
 ---
 
-### 학부연구생 (2024-2) - Unreal 활용 프로젝트
+### (2024-2) - UnrealEngine 활용 프로젝트
 
-Camera Actor spawn 및 지정된 좌표 리스트의 camera view를 저장 및 데이터셋 구성  
-C++과 Blueprint를 활용하여 캡처된 camera view 파일이 실시간으로 서버로 전송되도록 HTTP 통신 구축  
+- Camera Actor spawn 및 지정된 좌표 리스트의 camera view를 저장 및 데이터셋 구성  
+- C++과 Blueprint를 활용하여 캡처된 camera view 이미지 파일이 실시간으로 서버로 전송되도록 [HTTP 통신](https://dev.epicgames.com/community/learning/tutorials/R6rv/unreal-engine-upload-an-image-using-http-post-request-c) 구축  
+- [Apple Vision Pro와 UnrealEngine 5.5 연결](https://zizon-minji.tistory.com/9)
 
 ---
 
@@ -130,5 +139,5 @@ C++과 Blueprint를 활용하여 캡처된 camera view 파일이 실시간으로
 ## 🧩 GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arenran02/arenran02/main/github-metrics.svg" width="95%">
+  <img src="profile-3d-contrib/profile-green.svg" width="95%">
 </p>
