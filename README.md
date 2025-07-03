@@ -20,13 +20,13 @@
 
 ## 📖 Career
 
-✓ 2022.02 : graduated from Bopyung High School
-✓ 2022.03 ~ : undergraduate in Sejong University, major in Electronic Information Communication Engineering
-✓ 2024.03 ~ : double major in Software Engineering at Sejong University
-✓ 2024.08 ~ 2025.02 : IoT Supporter in COSS (혁신융합대학)
-✓ 2024.01 ~ 2024.12 : executive member of Sejong Univ Badminton Club 세콕세콕
-✓ 2024.03 ~ 2024.12 : executive member of Electronic Information Communication Engineering Academic Club 프롬프트
-✓ 2024.01 ~ 2025.01 : undergraduate researcher in AISL Lab
+✓ 2022.02 : graduated from Bopyung High School  
+✓ 2022.03 ~ : undergraduate in Sejong University, major in Electronic Information Communication Engineering  
+✓ 2024.03 ~ : double major in Software Engineering at Sejong University  
+✓ 2024.08 ~ 2025.02 : IoT Supporter in COSS (혁신융합대학)  
+✓ 2024.01 ~ 2024.12 : executive member of Sejong Univ Badminton Club 세콕세콕  
+✓ 2024.03 ~ 2024.12 : executive member of Electronic Information Communication   Engineering Academic Club 프롬프트  
+✓ 2024.01 ~ 2025.01 : undergraduate researcher in AISL Lab  
 
 <br>
 
