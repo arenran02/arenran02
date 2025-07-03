@@ -18,6 +18,20 @@
 - 📫 Contact: **arenran02@naver.com**   
 <br>
 
+## 📖 Career
+
+✓ 2022.02 : graduated from Bopyung High School
+✓ 2022.03 ~ : undergraduate in Sejong University, major in Electronic Information Communication Engineering
+✓ 2024.03 ~ : double major in Software Engineering at Sejong University
+✓ 2024.08 ~ 2025.02 : IoT Supporter in COSS (혁신융합대학)
+✓ 2024.01 ~ 2024.12 : executive member of Sejong Univ Badminton Club 세콕세콕
+✓ 2024.03 ~ 2024.12 : executive member of Electronic Information Communication Engineering Academic Club 프롬프트
+✓ 2024.01 ~ 2025.01 : undergraduate researcher in AISL Lab
+
+<br>
+
+
+
 ## ⚙️ Tech Stack
 
 ### 💻 Programming Languages
@@ -67,15 +81,15 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
-
 <br>
 
 ## 🏆 Awards
 
-2025 제 12회 세종대학교 SW•AI 해커톤 은상🥈  
+### 2025 제 12회 세종대학교 SW•AI 해커톤 - 은상🥈
 
+![](/assets/picture3.jpg)  
+
+<br>
 
 ## 💡 Projects 
 
@@ -129,14 +143,12 @@ Apple Vision Pro의 **ARKit/RealityKit**을 활용하여, 사용자가 3D 재구
 - C++과 Blueprint를 활용하여 캡처된 camera view 이미지 파일이 실시간으로 서버로 전송되도록 [HTTP 통신](https://dev.epicgames.com/community/learning/tutorials/R6rv/unreal-engine-upload-an-image-using-http-post-request-c) 구축  
 - [Apple Vision Pro와 UnrealEngine 5.5 연결](https://zizon-minji.tistory.com/9)
 
----
-
-###
- 
+<br>
 
 <!-- 레포지토리 주소 추가하기 -->
 ## 💡 Paper Reviews
 
+<br>
 
 ## 🧩 GitHub Metrics
 
