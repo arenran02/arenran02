@@ -146,6 +146,8 @@ Apple Vision Pro의 **ARKit/RealityKit**을 활용하여, 사용자가 3D 재구
 
 <br>
 
+[![Minji Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=arenran02)](https://github.com/arenran02/github-readme-stats)
+
 ## 🧩 GitHub Metrics
 
 <p align="center">
