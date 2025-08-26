@@ -27,6 +27,7 @@
 ✓ 2024.01 ~ 2024.12 : executive member of Sejong Univ Badminton Club 세콕세콕  
 ✓ 2024.03 ~ 2024.12 : executive member of Electronic Information Communication   Engineering Academic Club 프롬프트  
 ✓ 2024.01 ~ 2025.01 : undergraduate researcher in AISL Lab  
+✓ 2025.09 ~ 2025.12 : internship in Beyless  
 
 <br>
 
@@ -139,10 +140,11 @@ Apple Vision Pro의 **ARKit/RealityKit**을 활용하여, 사용자가 3D 재구
 - C++과 Blueprint를 활용하여 캡처된 camera view 이미지 파일이 실시간으로 서버로 전송되도록 [HTTP 통신](https://dev.epicgames.com/community/learning/tutorials/R6rv/unreal-engine-upload-an-image-using-http-post-request-c) 구축  
 - [Apple Vision Pro와 UnrealEngine 5.5 연결](https://zizon-minji.tistory.com/9)
 
+
 <br>
 
 <!-- 레포지토리 주소 추가하기 -->
-## 💡 Paper Reviews
+<!-- ## 💡 Paper Reviews -->
 
 <br>
 
