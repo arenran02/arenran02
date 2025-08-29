@@ -97,7 +97,7 @@
 [DINOv2](https://github.com/facebookresearch/dinov2) 모델에서 추출한 이미지 벡터 정보를 [MongoDB](https://www.mongodb.com/)에 저장하고, 이를 기반으로 한 **이미지 매칭 및 알림 시스템(top-k)** 을 구축  
 
 <p>
-  <a href="https://github.com/arenran02/Capstone-AI-app" target="_blank">
+  <a href="https://github.com/arenran02/Capstone-ai-server" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
 
