@@ -28,7 +28,7 @@
 ✓ 2024.03 ~ 2024.12 : executive member of Electronic Information Communication   Engineering Academic Club 프롬프트  
 ✓ 2024.01 ~ 2025.01 : undergraduate researcher in AISL Lab  
 ✓ 2025.09 ~ 2025.12, 2026.02 : internship in Beyless  
-✓ 2026.02 ~ now: KICC R&D researcher
+✓ 2026.02 ~ now: KICC(한국정보통신) R&D researcher
 
 <br>
 
