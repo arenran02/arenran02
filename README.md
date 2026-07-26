@@ -12,86 +12,37 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Double majoring in **Electronic and Information Communication Engineering** and **Software Engineering** at **Sejong University**  
-- 🧑‍🎓 Currently a senior (4th year) undergraduate student  
-- 🤖 Deeply interested in **CV(Computer Vision)**, **backend development**, and the overall field of **software engineering**  
-- 📫 Contact: **arenran02@naver.com**   
+- 🎓 Graduated from Sejong University in August 2026 with a double major in Electronic and Information Communication Engineering and Software Engineering
+- 💻 Interested in backend development, Windows application development with C#, and the broader field of software engineering
+- 🤖 Interested in artificial intelligence technologies for autonomous driving, including computer vision, deep learning, sensor fusion, and perception systems
+- 📫 Contact: arenran02@naver.com
 <br>
 
 ## 📖 Career
 
 ✓ 2022.02 : graduated from Bopyung High School  
-✓ 2022.03 ~ : undergraduate in Sejong University, major in Electronic Information Communication Engineering  
+✓ 2022.03 ~ : major in Electronic Information Communication Engineering in Sejong University, 
 ✓ 2024.03 ~ : double major in Software Engineering at Sejong University  
-✓ 2024.08 ~ 2025.02 : IoT Supporter in COSS (혁신융합대학)  
-✓ 2024.01 ~ 2024.12 : executive member of Sejong Univ Badminton Club 세콕세콕  
-✓ 2024.03 ~ 2024.12 : executive member of Electronic Information Communication   Engineering Academic Club 프롬프트  
+✓ 2024.08 ~ 2025.02 : IoT Supporter in COSS
+✓ 2024.01 ~ 2024.12 : executive member of Sejong Univ Badminton Club
+✓ 2024.03 ~ 2024.12 : executive member of Electronic Information Communication   Engineering Academic Club Prompt  
 ✓ 2024.01 ~ 2025.01 : undergraduate researcher in AISL Lab  
 ✓ 2025.09 ~ 2025.12, 2026.02 : internship in Beyless  
-✓ 2026.02 ~ now: KICC(한국정보통신) R&D researcher
-
+**✓ 2026.02 ~ now: KICC R&D researcher in Solution part**
 <br>
 
 
 
 ## ⚙️ Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-### 🧰 Frameworks / Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-
----
-
-### 🗄️ Database
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🚀 DevOps & Tools
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
----
-
-### 🖥️ OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+(수정중...)
 
 <br>
 
 ## 🏆 Awards
 
-### 2025 제 12회 세종대학교 SW•AI 해커톤 - 은상🥈
-
-![](/assets/picture3.jpg)  
-
-<br>
-
-### 2025 제 1회 인공지능융합대학 학술제 - 대상 🥇
-
-![](/assets/picture4.jpg)  
+- 2025 제 12회 세종대학교 SW•AI 해커톤 - 은상🥈
+-  2025 제 1회 인공지능융합대학 학술제 - 대상 🥇
 
 <br>
 
